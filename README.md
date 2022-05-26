@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06901?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Build Supercomputers with Raspberry Pi 3
 This is the code repository for [Build Supercomputers with Raspberry Pi 3](https://www.packtpub.com/hardware-and-creative/build-supercomputers-raspberry-pi-3?utm_source=github&utm_medium=repository&utm_content=978-1-78728-258-2), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
